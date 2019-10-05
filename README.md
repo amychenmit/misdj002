@@ -5,12 +5,12 @@
 
 ### 做好 import export 準備，並給 Amy 我的 note
 - pip install django-import-export
--  edit misdj/settings.py
--  edit note/models.py
--  ./manage.py makemigrations
--  ./manage.py migrate
--  edit note/admin.py
--  ./manage.py runserver
+- edit misdj/settings.py
+- edit note/models.py
+- ./manage.py makemigrations
+- ./manage.py migrate
+- edit note/admin.py
+- ./manage.py runserver
 
 
 ### 將本地代碼上傳到 github 的組合拳 
