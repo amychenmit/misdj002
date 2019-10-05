@@ -25,7 +25,7 @@ SECRET_KEY = 'ude#a!@fn(bvpnkh6i$zfn)#_65p@a@+^pbaryoapcf0z=3xn!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'note', # Amy, 加這一行
-    'import_export'
+    'note', # 加入 note 功能
+    'import_export', # 加入 import_export 功能
 ]
 
 MIDDLEWARE = [

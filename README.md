@@ -19,9 +19,6 @@
 - git commit -m"你的註釋"
 - git status
 - git push -u origin master
-<<<<<<< HEAD
 
 
 ### 測試測試 ：Ｄ
-=======
->>>>>>> 7abce2c2f4e4f714f2506e521b9d127bdbff9be2
