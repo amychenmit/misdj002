@@ -21,4 +21,17 @@
 - git push -u origin master
 
 
-### 測試測試 ：Ｄ
+### HOMEWORK
+- have a look, read it for 10 min
+    https://docs.djangoproject.com/en/2.2/howto/deployment/
+    不期望你現在上手，也不期望你未來一個月內上手。只是讓你知道，真遇到，要怎麼找正確的做法。
+
+- DNS是什麼
+- 要知道一些差異，要去查 二級域名 和端口。
+    如果按這條目，amy 算是三級域名。
+    但是我們口頭上，通常叫二級域名。因為我們把可控的
+    misdj.com 當成一級域名
+    請知道，遇到不同的人的叫法可能有些不同
+- port 80
+- YouTube , 搜 cs50 https://www.bilibili.com/video/av50186576/
+- git lesson
